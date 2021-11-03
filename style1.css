@@ -1,0 +1,41 @@
+.nav-link
+{
+    color:black;
+}
+.main-section
+{   
+  
+ display: inline-block;
+}
+body{
+    text-align: justify;
+}
+ul{
+    list-style-type: disc;
+}
+
+
+#nav-bar
+{
+    display: inline-block;
+   padding-right:6em;
+}
+.all
+{
+    /* vertical-align: 20px; */
+    width:60%;
+    padding-left: 2em;
+    display: inline-block;
+}
+td
+{
+    border:1px solid black;
+    padding: 0em 3em 0em 3em;
+}
+.grey
+{
+    padding:1em 2em 1em 2em;
+    margin: 1em 0em 1em 0em ;
+    background-color:#f7f7f7;
+    border-radius: 3px;
+}
